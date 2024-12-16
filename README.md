@@ -1,8 +1,4 @@
 ## Hi there, Welcome to My GitHub! :wave:
-
----
-
-### :rocket: Welcome Banner
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vsumavane/vsumavane/blob/0dc5ea37684a5f0f5b02ff40cdac1ca181c7afad/assets/banner-image-light.png">
@@ -10,6 +6,7 @@
     <img alt="Welcome Banner" src="https://github.com/vsumavane/vsumavane/blob/0dc5ea37684a5f0f5b02ff40cdac1ca181c7afad/assets/banner-image-light.png">
   </picture>
 </div>
+
 ---
 
 ### :computer: Technologies I Work With:
@@ -32,21 +29,12 @@
 
 ---
 
-
-### :bar_chart: Other Stats:
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vsumavane&theme=radical)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vsumavane&theme=darkhub&no-frame=true&row=1)
-
----
-
 ### :link: Contacts and Socials:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/YourLinkedIn)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:YourEmail@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/Vishal-Umavane)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vsumavane@outlook.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge)](https://umavane.me)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/Vishal_Umavane)
 
 ---
 
