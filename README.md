@@ -5,9 +5,9 @@
 ### :rocket: Welcome Banner
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-image-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-image-light.png">
-    <img alt="Welcome Banner" src="assets/banner-image-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vsumavane/vsumavane/blob/0dc5ea37684a5f0f5b02ff40cdac1ca181c7afad/assets/banner-image-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/vsumavane/vsumavane/blob/0dc5ea37684a5f0f5b02ff40cdac1ca181c7afad/assets/banner-image-light.png">
+    <img alt="Welcome Banner" src="https://github.com/vsumavane/vsumavane/blob/0dc5ea37684a5f0f5b02ff40cdac1ca181c7afad/assets/banner-image-light.png">
   </picture>
 </div>
 ---
