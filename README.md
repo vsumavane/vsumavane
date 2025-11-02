@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/VishalUmavane.png" width="100" style="border-radius: 50%;">
+  <img src="https://github.com/vsumavane.png" width="100" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Vishal Umavane</h1>
